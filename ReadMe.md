@@ -9,8 +9,8 @@ BFS/ BFS algorithm<br/>
 map/01/ the map that simulates a real world scenario with obstackles<br/>
 map/02/ the map that simulates a maze<br/>
 <br/>
-start_state.npy start position data<br/>
-destination_state.npy destination position data<br/>
+start_state.npy start-position<br/>
+destination_state.npy destination-position<br/>
 map_table.npy map data<br/>
 <br/>
 report [here](report.pdf)<br/>
