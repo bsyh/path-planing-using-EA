@@ -1,4 +1,6 @@
 ![example](1.png)
+On the left, a path is calculated by given the maze image on the right. Red is the start point and blue is the target. The dimension is 20x17.
+
 
 environment.py the environment simulation os map<br/>
 evo_algo.py evolution algorithm body<br/>
