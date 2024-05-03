@@ -17,3 +17,7 @@ start_state.npy start-position<br/>
 destination_state.npy destination-position<br/>
 map_table.npy map data<br/>
 <br/>
+
+technical report is here:\
+https://github.com/bsyh/path-planing-using-EA/blob/main/report.pdf
+
